@@ -140,7 +140,7 @@ export default function Home() {
                                 </div>
                                 <div className="text-sm flex">
                                     <FaLock color='grey' className='mr-1 mt-1' />
-                                    <a href="#" className="">
+                                    <a href="/" className="">
                                         Forgot your password?
                                     </a>
                                 </div>
