@@ -1,3 +1,7 @@
+# Deployment Link
+
+Site has been deployed at the following link: https://reactjstaskbypratham.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
